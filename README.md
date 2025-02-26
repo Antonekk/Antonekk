@@ -9,7 +9,6 @@ In my free time, I love participating in [`game jams`](https://en.wikipedia.org/
 - 🖥️ Studying IT at [University of Wrocław](https://ii.uni.wroc.pl)
 - 🔭 I’m currently working on **Mell** - Shell scripting language with LISP inspired syntax
 - 🌱 I’m currently learning **Java**, **AI** and **Computer Networks**
-- 💬 Ask me about ...
 - 📫 How to reach me: [`straszantoni@gmail.com`](straszantoni@gmail.com)
 
 
