@@ -29,4 +29,4 @@ In my free time, I love participating in [`game jams`](https://en.wikipedia.org/
 
 
 ### 🎮 My Games
-<p align="center"> <a href="https://your-itch-io-page.itch.io" target="_blank"> <img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white"/> </a> </p>
+<p align="center"> <a href="[https://your-itch-io-page.itch.io](https://antonek.itch.io)" target="_blank"> <img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white"/> </a> </p>
