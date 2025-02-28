@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm Antoni, a college student passionate about **backend development**, **low-level programming**, and **software security**.
+I'm Antoni, a college student passionate about **backend development**, **low-level programming**, and **game development**.
 
 In my free time, I love participating in [`game jams`](https://en.wikipedia.org/wiki/Game_jam), experimenting with new technologies, and working on projects that expand my knowledge.
 
