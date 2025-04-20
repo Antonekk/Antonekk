@@ -8,7 +8,7 @@ In my free time, I love participating in [`game jams`](https://en.wikipedia.org/
 ### 📌 About Me
 - 🖥️ Studying CS at [University of Wrocław](https://ii.uni.wroc.pl)
 - 🔭 I’m currently working on **Mell** - Shell scripting language with LISP inspired syntax
-- 🌱 I’m currently learning **Java**, **AI** and **Computer Networks**
+- 🌱 I’m currently learning **Linux**, **AI** and **Computer Networks**
 - 📫 How to reach me: [`straszantoni@gmail.com`](straszantoni@gmail.com)
 
 
@@ -19,7 +19,6 @@ In my free time, I love participating in [`game jams`](https://en.wikipedia.org/
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
