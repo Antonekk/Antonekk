@@ -2,13 +2,13 @@
 
 I'm Antoni, a college student passionate about **backend development**, **low-level programming**, and **game development**.
 
-In my free time, I love participating in [`game jams`](https://en.wikipedia.org/wiki/Game_jam), experimenting with new technologies, and working on projects that expand my knowledge.
+In my free time, I love participating in [`game jams`](https://en.wikipedia.org/wiki/Game_jam), experimenting with new technologies, and working on personal projects.
 
 
 ### 📌 About Me
 - 🖥️ Studying CS at [University of Wrocław](https://ii.uni.wroc.pl)
-- 🔭 I’m currently working on **Mell** - Shell scripting language with LISP inspired syntax
-- 🌱 I’m currently learning **Linux**, **AI** and **Computer Networks**
+- 🔭 I’m currently **LOCKED IN**
+- 🌱 I’m currently learning **Linux ricing**
 - 📫 How to reach me: [`straszantoni@gmail.com`](straszantoni@gmail.com)
 
 
