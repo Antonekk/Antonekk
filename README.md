@@ -6,7 +6,7 @@ In my free time, I love participating in [`game jams`](https://en.wikipedia.org/
 
 
 ### 📌 About Me
-- 🖥️ Fullstack SWE @[Dropbox](https://www.dropbox.com/)
+- 🖥️ Ex Full-stack product SWE @[Dropbox](https://www.dropbox.com/)
 - 🔭 I’m currently **LOCKED IN**
 - 📫 How to reach me: [`straszantoni@gmail.com`](straszantoni@gmail.com)
 
